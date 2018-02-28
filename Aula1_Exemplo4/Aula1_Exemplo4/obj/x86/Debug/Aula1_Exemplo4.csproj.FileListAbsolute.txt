@@ -1,0 +1,5 @@
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo4\Aula1_Exemplo4\obj\x86\Debug\Aula1_Exemplo4.csprojResolveAssemblyReference.cache
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo4\Aula1_Exemplo4\bin\Debug\Aula1_Exemplo4.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo4\Aula1_Exemplo4\bin\Debug\Aula1_Exemplo4.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo4\Aula1_Exemplo4\obj\x86\Debug\Aula1_Exemplo4.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo4\Aula1_Exemplo4\obj\x86\Debug\Aula1_Exemplo4.pdb
