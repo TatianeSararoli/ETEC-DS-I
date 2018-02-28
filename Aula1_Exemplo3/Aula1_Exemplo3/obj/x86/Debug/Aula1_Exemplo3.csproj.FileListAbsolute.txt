@@ -1,0 +1,4 @@
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo3\Aula1_Exemplo3\bin\Debug\Aula1_Exemplo3.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo3\Aula1_Exemplo3\bin\Debug\Aula1_Exemplo3.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo3\Aula1_Exemplo3\obj\x86\Debug\Aula1_Exemplo3.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - C#\Aula1_Exemplo3\Aula1_Exemplo3\obj\x86\Debug\Aula1_Exemplo3.pdb
