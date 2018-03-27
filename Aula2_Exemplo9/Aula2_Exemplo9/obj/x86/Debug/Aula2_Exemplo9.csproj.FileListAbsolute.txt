@@ -1,0 +1,4 @@
+C:\Users\Aluno_2\Desktop\Aula2_Exemplo9\Aula2_Exemplo9\bin\Debug\Aula2_Exemplo9.exe
+C:\Users\Aluno_2\Desktop\Aula2_Exemplo9\Aula2_Exemplo9\bin\Debug\Aula2_Exemplo9.pdb
+C:\Users\Aluno_2\Desktop\Aula2_Exemplo9\Aula2_Exemplo9\obj\x86\Debug\Aula2_Exemplo9.exe
+C:\Users\Aluno_2\Desktop\Aula2_Exemplo9\Aula2_Exemplo9\obj\x86\Debug\Aula2_Exemplo9.pdb
