@@ -1,0 +1,4 @@
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_2-Heranca_Animais\Animais\Animais\bin\Debug\Animais.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_2-Heranca_Animais\Animais\Animais\bin\Debug\Animais.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_2-Heranca_Animais\Animais\Animais\obj\x86\Debug\Animais.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_2-Heranca_Animais\Animais\Animais\obj\x86\Debug\Animais.pdb

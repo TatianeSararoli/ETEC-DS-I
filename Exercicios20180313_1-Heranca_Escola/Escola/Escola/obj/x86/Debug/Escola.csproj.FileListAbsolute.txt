@@ -1,0 +1,12 @@
+E:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-13\Exercicios20180313_1\Escola\Escola\obj\x86\Debug\escola.csprojResolveAssemblyReference.cache
+E:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-13\Exercicios20180313_1\Escola\Escola\bin\Debug\escola.exe
+E:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-13\Exercicios20180313_1\Escola\Escola\bin\Debug\escola.pdb
+E:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-13\Exercicios20180313_1\Escola\Escola\obj\x86\Debug\escola.exe
+E:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-13\Exercicios20180313_1\Escola\Escola\obj\x86\Debug\escola.pdb
+E:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_1-Heranca_Escola\Escola\Escola\obj\x86\Debug\escola.exe
+E:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_1-Heranca_Escola\Escola\Escola\obj\x86\Debug\escola.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_1-Heranca_Escola\Escola\Escola\obj\x86\Debug\escola.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_1-Heranca_Escola\Escola\Escola\obj\x86\Debug\escola.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_1-Heranca_Escola\Escola\Escola\bin\Debug\escola.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_1-Heranca_Escola\Escola\Escola\bin\Debug\escola.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-03-13\Exercicios20180313_1-Heranca_Escola\Escola\Escola\obj\x86\Debug\escola.csprojResolveAssemblyReference.cache
