@@ -1,0 +1,5 @@
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-20\Empregados C#\ConsoleApplication1\obj\x86\Debug\Funcionario.csprojResolveAssemblyReference.cache
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-20\Empregados C#\ConsoleApplication1\bin\Debug\Funcionario.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-20\Empregados C#\ConsoleApplication1\bin\Debug\Funcionario.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-20\Empregados C#\ConsoleApplication1\obj\x86\Debug\Funcionario.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-03-20\Empregados C#\ConsoleApplication1\obj\x86\Debug\Funcionario.pdb
