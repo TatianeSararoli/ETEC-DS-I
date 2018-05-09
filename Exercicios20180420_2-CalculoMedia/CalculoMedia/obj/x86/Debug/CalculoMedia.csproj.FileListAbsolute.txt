@@ -1,0 +1,17 @@
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.frmMedia.resources
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.frmMedia.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csproj.GenerateResource.Cache
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\MaiorDeTres\MaiorDeTres\bin\Debug\MaiorDeTres.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.frmMaiorValorDeTres.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.Properties.Resources.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.csproj.GenerateResource.Cache
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\MaiorDeTres\MaiorDeTres\obj\x86\Debug\MaiorDeTres.pdb

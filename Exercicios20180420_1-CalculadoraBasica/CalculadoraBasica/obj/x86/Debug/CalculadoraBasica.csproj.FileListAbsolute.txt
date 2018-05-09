@@ -1,0 +1,17 @@
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.Properties.Resources.resources
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.exe
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.pdb
+F:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.frmPrincipal.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.frmPrincipal.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.Properties.Resources.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercicios - 2018-04-20\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
