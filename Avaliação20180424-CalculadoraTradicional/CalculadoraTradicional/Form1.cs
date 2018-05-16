@@ -43,7 +43,7 @@ namespace CalculadoraTradicional
             {
                 btnIgual.PerformClick();
                 operacao = btn.Text;
-                lblHistorico.Text = resultado + " " + operacao;
+                lblHistorico.Text = lblHistorico.Text + " " + operacao;
                 temOperacao = true;
             }
             else
@@ -60,22 +60,25 @@ namespace CalculadoraTradicional
             switch (operacao)
             {
                 case "+":
+                    lblHistorico.Text = lblHistorico.Text + " " + txtResultado.Text;
                     txtResultado.Text = (resultado + double.Parse(txtResultado.Text)).ToString();
                     break;
                 case "-":
+                    lblHistorico.Text = lblHistorico.Text + " " + txtResultado.Text;
                     txtResultado.Text = (resultado - double.Parse(txtResultado.Text)).ToString();
                     break;
                 case "*":
+                    lblHistorico.Text = lblHistorico.Text + " " + txtResultado.Text;
                     txtResultado.Text = (resultado * double.Parse(txtResultado.Text)).ToString();
                     break;
                 case "/":
+                    lblHistorico.Text = lblHistorico.Text + " " + txtResultado.Text;
                     txtResultado.Text = (resultado / double.Parse(txtResultado.Text)).ToString();
                     break;
                 default:
                     break;
             }
             resultado = double.Parse(txtResultado.Text);
-            lblHistorico.Text = lblHistorico.Text + txtResultado.Text + " = " + resultado;
         }
 
         private void btnLimpa_Click(object sender, EventArgs e)

@@ -29,3 +29,11 @@ G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24\Avali
 G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.Form1.resources
 G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.Properties.Resources.resources
 G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.csproj.GenerateResource.Cache
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.exe
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.pdb
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\bin\Debug\CalculadoraTradicional.exe
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\bin\Debug\CalculadoraTradicional.pdb
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.csprojResolveAssemblyReference.cache
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.Form1.resources
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.Properties.Resources.resources
+H:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-04-24 - Parte II\Avaliação20180424-CalculadoraTradicional\CalculadoraTradicional\obj\x86\Debug\CalculadoraTradicional.csproj.GenerateResource.Cache
