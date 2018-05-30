@@ -1,0 +1,11 @@
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.frmMenu.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.frmTeste2.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\bin\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\bin\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.pdb
