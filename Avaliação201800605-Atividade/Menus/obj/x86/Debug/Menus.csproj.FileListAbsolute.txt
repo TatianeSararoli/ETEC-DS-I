@@ -1,0 +1,53 @@
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.frmMenu.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.frmTeste2.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\bin\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\bin\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Aula - 2018-05-29\Menus\Menus\obj\x86\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\bin\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\bin\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.frmMenu.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.frmTeste1.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.frmTeste2.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Exercícios - 2018-05-22  - GitHub OK\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.exe
+C:\Users\Aluno\Desktop\Exercicios20180522-Menus\Menus\obj\x86\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.csprojResolveAssemblyReference.cache
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmMenu.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc1.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc2.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc7.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\bin\Debug\Menus.exe
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\bin\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.pdb
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc3.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc4.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc5.resources
+G:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc6.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\bin\Debug\Menus.exe
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\bin\Debug\Menus.pdb
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.csprojResolveAssemblyReference.cache
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmMenu.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc1.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc2.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc3.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc4.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc5.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc6.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.frmExerc7.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.Properties.Resources.resources
+D:\1 - ETEC ZL - Tatiane Sararoli\Módulo II\3 - DS - I\Prova - 2018-06-05\Avaliação201800605-Atividade\Menus\obj\x86\Debug\Menus.csproj.GenerateResource.Cache
