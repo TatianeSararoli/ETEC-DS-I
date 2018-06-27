@@ -28,8 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.lblMatr = new System.Windows.Forms.Label();
             this.lbl_matricula = new System.Windows.Forms.Label();
             this.lblNome = new System.Windows.Forms.Label();
@@ -50,12 +48,6 @@
             this.txt_endereco = new System.Windows.Forms.TextBox();
             this.txt_numero = new System.Windows.Forms.TextBox();
             this.dgv_clientes = new System.Windows.Forms.DataGridView();
-            this.ColMatr = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColNome = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColNasc = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColEnd = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ColCep = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dtp_nasc = new System.Windows.Forms.DateTimePicker();
             this.msk_cep = new System.Windows.Forms.MaskedTextBox();
             this.txt_Pesquisar = new System.Windows.Forms.TextBox();
@@ -245,54 +237,12 @@
             // dgv_clientes
             // 
             this.dgv_clientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv_clientes.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.ColMatr,
-            this.ColNome,
-            this.ColNasc,
-            this.ColEnd,
-            this.ColNum,
-            this.ColCep});
             this.dgv_clientes.Location = new System.Drawing.Point(24, 247);
             this.dgv_clientes.Name = "dgv_clientes";
             this.dgv_clientes.Size = new System.Drawing.Size(622, 150);
             this.dgv_clientes.TabIndex = 22;
             this.dgv_clientes.Click += new System.EventHandler(this.dgv_clientes_Click);
             this.dgv_clientes.KeyUp += new System.Windows.Forms.KeyEventHandler(this.dgv_clientes_KeyUp);
-            // 
-            // ColMatr
-            // 
-            this.ColMatr.HeaderText = "Matrícula";
-            this.ColMatr.Name = "ColMatr";
-            // 
-            // ColNome
-            // 
-            this.ColNome.HeaderText = "Nome";
-            this.ColNome.Name = "ColNome";
-            // 
-            // ColNasc
-            // 
-            dataGridViewCellStyle1.Format = "d";
-            dataGridViewCellStyle1.NullValue = "dd/mm/aaaa";
-            this.ColNasc.DefaultCellStyle = dataGridViewCellStyle1;
-            this.ColNasc.HeaderText = "Nasc";
-            this.ColNasc.Name = "ColNasc";
-            // 
-            // ColEnd
-            // 
-            this.ColEnd.HeaderText = "Endereço";
-            this.ColEnd.Name = "ColEnd";
-            // 
-            // ColNum
-            // 
-            this.ColNum.HeaderText = "Número";
-            this.ColNum.Name = "ColNum";
-            // 
-            // ColCep
-            // 
-            dataGridViewCellStyle2.NullValue = "_____-___";
-            this.ColCep.DefaultCellStyle = dataGridViewCellStyle2;
-            this.ColCep.HeaderText = "CEP";
-            this.ColCep.Name = "ColCep";
             // 
             // dtp_nasc
             // 
@@ -381,12 +331,6 @@
         private System.Windows.Forms.DateTimePicker dtp_nasc;
         private System.Windows.Forms.MaskedTextBox msk_cep;
         private System.Windows.Forms.TextBox txt_Pesquisar;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColMatr;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColNome;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColNasc;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColEnd;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColNum;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ColCep;
     }
 }
 
